@@ -1,5 +1,7 @@
 title: Moja Strona
-baseurl: ""
-url: ""
+description: "Moja pierwsza strona na GitHub Pages z użyciem Jekylla."
+baseurl: "" # Zostaw puste, jeśli nie używasz subdomeny
+url: "https://twoja-strona.github.io" # Zastąp swoim URL
 theme: minima
 markdown: kramdown
+paginate: 5 # Liczba postów na jednej stronie
