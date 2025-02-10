@@ -1,0 +1,5 @@
+title: Moja Strona
+baseurl: ""
+url: ""
+theme: minima
+markdown: kramdown
